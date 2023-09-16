@@ -37,7 +37,7 @@ const Header = () => {
         <Container>
           <LinkContainer to='/'>
             <Navbar.Brand>
-              <img src={logo} alt='NFT Horizon' />
+              {/* <img src={logo} alt='NFT Horizon' /> */}
               NFT Horizon
             </Navbar.Brand>
           </LinkContainer>

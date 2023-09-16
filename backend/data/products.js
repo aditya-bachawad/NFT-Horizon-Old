@@ -1,10 +1,10 @@
 const products = [
   {
-    name: 'Airpods Wireless Bluetooth Headphones',
-    image: '/images/airpods.jpg',
+    name: 'CyberPunk Cool',
+    image: '/images/cyberpunk1.png',
     description:
-      'Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working',
-    brand: 'Apple',
+      'CyberPunk is one of the most valuable NFTs on the planet, this one the OG',
+    brand: 'cyberpunk',
     category: 'Electronics',
     price: 89.99,
     countInStock: 10,
@@ -12,12 +12,48 @@ const products = [
     numReviews: 12,
   },
   {
-    name: 'iPhone 13 Pro 256GB Memory',
-    image: '/images/phone.jpg',
+    name: 'CyberPunk Cool',
+    image: '/images/cyberpunk2.png',
     description:
-      'Introducing the iPhone 13 Pro. A transformative triple-camera system that adds tons of capability without complexity. An unprecedented leap in battery life',
-    brand: 'Apple',
+      'CyberPunk is one of the most valuable NFTs on the planet, this one is really tired',
+    brand: 'cyberpunk',
     category: 'Electronics',
+    price: 89.99,
+    countInStock: 10,
+    rating: 4.5,
+    numReviews: 12,
+  },
+  {
+    name: 'CryptoDog',
+    image: '/images/dog1.png',
+    description:
+      'CryptoDogs took charge of the meme era on twitter and came to popularity, This is the normal one',
+    brand: 'cryptodog',
+    category: 'Dogs',
+    price: 599.99,
+    countInStock: 7,
+    rating: 4.0,
+    numReviews: 8,
+  },
+  {
+    name: 'CryptoDog',
+    image: '/images/dog2.png',
+    description:
+      'CryptoDogs took charge of the meme era on twitter and came to popularity, This is the pink one',
+    brand: 'cryptodog',
+    category: 'Dogs',
+    price: 599.99,
+    countInStock: 7,
+    rating: 4.0,
+    numReviews: 8,
+  },
+  {
+    name: 'CryptoDog',
+    image: '/images/dog1.png',
+    description:
+      'CryptoDogs took charge of the meme era on twitter and came to popularity, This one is a robot ',
+    brand: 'cryptodog',
+    category: 'Dogs',
     price: 599.99,
     countInStock: 7,
     rating: 4.0,
